@@ -21,11 +21,12 @@ The Lamp Light project is a simple web application that allows users to control 
 - A button labeled "Turn On/Off" on the side of the lamp.
 
 - When the user clicks the "Turn On" button, the lamp illuminates, and its brightness increases, giving the impression of a turned-on lamp.<br><br>
-![mobile (1)](https://github.com/Pardeepsharma01/Lamp-light/assets/122151205/8a2ac15c-69a3-4abc-baeb-da5ea77db747)
+![mobile](https://github.com/Pardeepsharma01/Lamp-light/assets/122151205/e2a8ff88-d43f-4ea0-809e-1160a732fc3d)
 
 - Clicking the "Turn Off" button reduces the lamp's brightness, simulating the lamp turning off.
+  ![mobile (1)](https://github.com/Pardeepsharma01/Lamp-light/assets/122151205/8a2ac15c-69a3-4abc-baeb-da5ea77db747)
 
 
-![mobile](https://github.com/Pardeepsharma01/Lamp-light/assets/122151205/e2a8ff88-d43f-4ea0-809e-1160a732fc3d)
+
 
 

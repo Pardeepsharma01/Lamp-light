@@ -1,7 +1,7 @@
 
  <h1>Project Description:</h1>
  
-The Lamp Light project is a simple web application that allows users to control the illumination of a virtual lamp using a button. This interactive project is built using HTML, CSS, and JavaScript, offering an engaging user experience.
+The Lamp Light project is a simple web application that allows users to control the illumination of a virtual lamp using a button. This interactive project is built using HTML, CSS, and JavaScript, offering an engaging user experience. T0 visit https://lamp-light-1.netlify.app/
 
 
 <h2>Tech Stack:</h2>
@@ -20,7 +20,7 @@ They see a lamp image displayed on the page.
 
 A button labeled "Turn On/Off" on the side of the lamp.
 
-When the user clicks the "Turn On" button, the lamp illuminates, and its brightness increases, giving the impression of a turned-on lamp.
+When the user clicks the "Turn On" button, the lamp illuminates, and its brightness increases, giving the impression of a turned-on lamp.<br><br>
 ![mobile (1)](https://github.com/Pardeepsharma01/Lamp-light/assets/122151205/8a2ac15c-69a3-4abc-baeb-da5ea77db747)
 
 Clicking the "Turn Off" button reduces the lamp's brightness, simulating the lamp turning off.
